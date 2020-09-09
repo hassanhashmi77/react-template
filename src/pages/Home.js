@@ -13,7 +13,7 @@ class Home extends Component {
                         </header>
                         <span class="image"><img src="images/pic01.jpg" alt="" /></span>
                     </div>
-                    <a href="#one" class="goto-next scrolly">Next</a>
+                    <a href="http://react-template2020.surge.sh/" class="goto-next scrolly">Next</a>
                 </section>
 
                 <section id="one" class="spotlight style1 bottom">
@@ -56,10 +56,10 @@ class Home extends Component {
                         </header>
                         <p>Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor lorem et accumsan consequat adipiscing lorem.</p>
                         <ul class="actions">
-                            <li><a href="#" class="button">Learn More</a></li>
+                            <li><a href="http://react-template2020.surge.sh/" class="button">Learn More</a></li>
                         </ul>
                     </div>
-                    <a href="#three" class="goto-next scrolly">Next</a>
+                    <a href="http://react-template2020.surge.sh/" class="goto-next scrolly">Next</a>
                 </section>
 
                 <section id="three" class="spotlight style3 left">
@@ -71,10 +71,10 @@ class Home extends Component {
                         </header>
                         <p>Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor lorem et accumsan consequat adipiscing lorem.</p>
                         <ul class="actions">
-                            <li><a href="#" class="button">Learn More</a></li>
+                            <li><a href="http://react-template2020.surge.sh/" class="button">Learn More</a></li>
                         </ul>
                     </div>
-                    <a href="#four" class="goto-next scrolly">Next</a>
+                    <a href="http://react-template2020.surge.sh/" class="goto-next scrolly">Next</a>
                 </section>
 
                 <section id="four" class="wrapper style1 special fade-up">
@@ -119,7 +119,7 @@ class Home extends Component {
                         </div>
                         <footer class="major">
                             <ul class="actions special">
-                                <li><a href="#" class="button">Magna sed feugiat</a></li>
+                                <li><a href="http://react-template2020.surge.sh/" class="button">Magna sed feugiat</a></li>
                             </ul>
                         </footer>
                     </div>
